@@ -21,4 +21,11 @@ npm install degit -g
 
 Degit using 
 
-``` degit https://github.com/obengwilliam/nodejs_pg ```
+``` 
+degit https://github.com/obengwilliam/nodejs_pg [name_of_folder]
+
+```
+
+```
+npm install
+```
