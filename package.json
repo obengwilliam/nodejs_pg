@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_pg",
+  "version": "1.0.0",
+  "description": "quick playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obengwilliam/nodejs_pg.git"
+  },
+  "keywords": [
+    "playground",
+    "boilerplate"
+  ],
+  "author": "william obeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obengwilliam/nodejs_pg/issues"
+  },
+  "homepage": "https://github.com/obengwilliam/nodejs_pg#readme"
+}
