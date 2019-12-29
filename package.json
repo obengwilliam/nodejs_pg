@@ -4,6 +4,7 @@
   "description": "quick playground",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "npm test"
   },
   "repository": {
@@ -19,5 +20,18 @@
   "bugs": {
     "url": "https://github.com/obengwilliam/nodejs_pg/issues"
   },
-  "homepage": "https://github.com/obengwilliam/nodejs_pg#readme"
+  "homepage": "https://github.com/obengwilliam/nodejs_pg#readme",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-mocha": "^6.2.2",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-security": "^1.4.0",
+    "eslint-plugin-standard": "^4.0.1",
+    "eslint-plugin-this": "^0.2.3",
+    "mocha": "6.2.2"
+  }
 }

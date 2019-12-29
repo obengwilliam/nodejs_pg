@@ -3,17 +3,19 @@ Personal quick project setup to test things quickly in nodejs
 
 
 #### Checklist 
-- [  ] - Add test script using mocha and chai
-- [  ] - Add watch script to run test on file changes
-- [  ] - Run test, format code, lint and check commit on push
-- [  ] - Add lint script using eslint
-- [  ] - Add .editorconfig
+- [ ] - Add test script using mocha and chai
+- [ ] - Add watch script to run test on file changes
+- [ ] - Run test, format code, lint and check commit on push
+- [ ] - Add lint script using eslint
+- [ ] - Add .editorconfig
 
 
 #### Usage
-Install (Degit)[https://github.com/Rich-Harris/degit] globablly
+Install [Degit](https://github.com/Rich-Harris/degit) globally
 
-``` npm install degit -g 
+```
+npm install degit -g 
+
 ```
 
 
